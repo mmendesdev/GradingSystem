@@ -1,6 +1,6 @@
 # PROJETO DJANGO MATHEUS MENDES
 
-# O sistema permite que os usuários criem, leiam, atualizem e excluam notas, organizem-nas por categorias e realizem buscas por título ou conteúdo. Além disso,o projeto inclui um sistema de autenticação para garantir que apenas usuários autorizados possam acessar e modificar suas próprias notas.
+## O sistema permite que os usuários criem, leiam, atualizem e excluam notas, organizem-nas por categorias e realizem buscas por título ou conteúdo. Além disso,o projeto inclui um sistema de autenticação para garantir que apenas usuários autorizados possam acessar e modificar suas próprias notas.
 
 # Sistema de Notas
 
