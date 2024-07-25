@@ -1,0 +1,7 @@
+# pyproject.toml
+[tool.pytest.ini_options]
+minversion = "6.0"
+addopts = "-ra -q"
+python_files = ["tests.py", "test_*.py"]
+DJANGO_SETTINGS_MODULE = "projectMendes.settings"
+testpaths = ["projectMendes", "tests"]
